@@ -1,0 +1,6 @@
+# momentohava
+
+HAVA DURUMU UYGULAMASI 
+
+MVVM
+REST
